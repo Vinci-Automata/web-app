@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "name": "VINCI Automata",
+    "tagline": "Intelligent automation for modern businesses"
+  },
+  "columns": {
+    "product": {
+      "title": "Product",
+      "links": [
+        "Features",
+        "Pricing",
+        "Documentation",
+        "API"
+      ]
+    },
+    "company": {
+      "title": "Company",
+      "links": [
+        "About",
+        "Blog",
+        "Careers",
+        "Contact"
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        "Privacy",
+        "Terms",
+        "Security"
+      ]
+    }
+  },
+  "copyright": "© {{year}} VINCI Automata. All rights reserved."
+}

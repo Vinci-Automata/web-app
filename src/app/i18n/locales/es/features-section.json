@@ -1,0 +1,32 @@
+{
+  "heading": {
+    "title": "Tecnología de Vanguardia",
+    "description": "Herramientas de automatización de nivel empresarial diseñadas para negocios modernos"
+  },
+  "features": [
+    {
+      "title": "Agentes Impulsados por IA",
+      "description": "Agentes inteligentes que comprenden el contexto, aprenden de las interacciones y brindan respuestas humanas a tus clientes."
+    },
+    {
+      "title": "Flujos de Trabajo n8n",
+      "description": "Crea flujos de trabajo de automatización complejos con programación visual. Conecta cientos de aplicaciones y servicios sin esfuerzo."
+    },
+    {
+      "title": "Integración con WhatsApp",
+      "description": "Llega a tus clientes donde estén. Integración perfecta con WhatsApp para comunicación y soporte instantáneos."
+    },
+    {
+      "title": "Velocidad Asombrosa",
+      "description": "Procesa miles de solicitudes simultáneamente con tiempos de respuesta de sub-segundos. Escala sin límites."
+    },
+    {
+      "title": "Aprendizaje Inteligente",
+      "description": "Nuestra IA aprende continuamente de las interacciones, mejorando la precisión y eficiencia con el tiempo."
+    },
+    {
+      "title": "Disponibilidad 24/7",
+      "description": "Nunca pierdas una consulta de un cliente. Tus agentes de IA trabajan las 24 horas del día, todos los días del año."
+    }
+  ]
+}

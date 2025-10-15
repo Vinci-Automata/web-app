@@ -1,0 +1,8 @@
+{
+  "stats": [
+    { "label": "Garantía de Disponibilidad" },
+    { "label": "Mensajes/Hora" },
+    { "label": "Integraciones" },
+    { "label": "Soporte Disponible" }
+  ]
+}

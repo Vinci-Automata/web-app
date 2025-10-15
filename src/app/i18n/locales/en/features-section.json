@@ -1,0 +1,32 @@
+{
+  "heading": {
+    "title": "Cutting-Edge Technology",
+    "description": "Enterprise-grade automation tools designed for modern businesses"
+  },
+  "features": [
+    {
+      "title": "AI-Powered Agents",
+      "description": "Intelligent agents that understand context, learn from interactions, and provide human-like responses to your customers."
+    },
+    {
+      "title": "n8n Workflows",
+      "description": "Build complex automation workflows with visual programming. Connect hundreds of apps and services effortlessly."
+    },
+    {
+      "title": "WhatsApp Integration",
+      "description": "Reach customers where they are. Seamless WhatsApp integration for instant communication and support."
+    },
+    {
+      "title": "Lightning Fast",
+      "description": "Process thousands of requests simultaneously with sub-second response times. Scale without limits."
+    },
+    {
+      "title": "Smart Learning",
+      "description": "Our AI continuously learns from interactions, improving accuracy and efficiency over time."
+    },
+    {
+      "title": "24/7 Availability",
+      "description": "Never miss a customer inquiry. Your AI agents work around the clock, every day of the year."
+    }
+  ]
+}

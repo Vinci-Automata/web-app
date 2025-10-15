@@ -1,0 +1,39 @@
+{
+  "heading": {
+    "title": "Our Services",
+    "description": "Tailored automation solutions for every business need"
+  },
+  "services": [
+    {
+      "title": "Customer Support Automation",
+      "description": "AI agents that handle customer inquiries, resolve issues, and escalate complex cases to human agents.",
+      "features": [
+        "Multi-language support",
+        "Sentiment analysis",
+        "Ticket management",
+        "Knowledge base integration"
+      ]
+    },
+    {
+      "title": "Sales & Lead Generation",
+      "description": "Qualify leads, schedule meetings, and nurture prospects automatically through intelligent conversations.",
+      "features": [
+        "Lead qualification",
+        "Appointment scheduling",
+        "CRM integration",
+        "Follow-up automation"
+      ]
+    },
+    {
+      "title": "Business Process Automation",
+      "description": "Streamline operations with custom workflows that connect your tools and automate repetitive tasks.",
+      "features": [
+        "Data synchronization",
+        "Report generation",
+        "Notification systems",
+        "Custom integrations"
+      ]
+    }
+  ],
+  "cta": "Learn More"
+}
