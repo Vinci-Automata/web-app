@@ -1,0 +1,39 @@
+{
+  "heading": {
+    "title": "Nuestros Servicios",
+    "description": "Soluciones de automatización a medida para cada necesidad empresarial"
+  },
+  "services": [
+    {
+      "title": "Automatización de Soporte al Cliente",
+      "description": "Agentes de IA que gestionan consultas de clientes, resuelven problemas y escalan casos complejos a agentes humanos.",
+      "features": [
+        "Soporte multi-idioma",
+        "Análisis de sentimiento",
+        "Gestión de tickets",
+        "Integración con base de conocimiento"
+      ]
+    },
+    {
+      "title": "Ventas y Generación de Leads",
+      "description": "Califica prospectos, agenda reuniones y nutre clientes potenciales automáticamente a través de conversaciones inteligentes.",
+      "features": [
+        "Calificación de prospectos",
+        "Agendamiento de citas",
+        "Integración con CRM",
+        "Automatización de seguimiento"
+      ]
+    },
+    {
+      "title": "Automatización de Procesos de Negocio",
+      "description": "Optimiza las operaciones con flujos de trabajo personalizados que conectan tus herramientas y automatizan tareas repetitivas.",
+      "features": [
+        "Sincronización de datos",
+        "Generación de informes",
+        "Sistemas de notificación",
+        "Integraciones personalizadas"
+      ]
+    }
+  ],
+  "cta": "Más Información"
+}
