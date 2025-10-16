@@ -38,7 +38,7 @@ export async function Footer() {
               <div className="flex items-center gap-2">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary relative overflow-hidden">
                   <Image
-                      src="/logo-vinci-automata-v2.png"
+                      src="/assets/images/logo-vinci-automata-v2.png"
                       alt={t('brand.name') + ' logo'}
                       fill
                   />
