@@ -3,6 +3,7 @@ import {MessageSquare} from "lucide-react"
 import Image from "next/image";
 import {getT} from "@/app/i18n";
 
+
 export async function Header() {
 
   const {t} = await getT('header')
@@ -13,7 +14,7 @@ export async function Header() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary relative overflow-hidden">
-              <Image src='/logo-vinci-automata-v2.png' alt={t('logoAlt')} fill/>
+              <Image src='/assets/images/logo-vinci-automata-v2.png' alt={t('logoAlt')} fill/>
             </div>
             <span className="text-xl font-bold">{t('brandName')}</span>
           </div>
