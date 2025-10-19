@@ -6,29 +6,15 @@
   "columns": {
     "product": {
       "title": "Producto",
-      "links": [
-        "Características",
-        "Precios",
-        "Documentación",
-        "API"
-      ]
+      "links": ["Características", "Precios", "Documentación", "API"]
     },
     "company": {
       "title": "Compañía",
-      "links": [
-        "Sobre nosotros",
-        "Blog",
-        "Empleo",
-        "Contacto"
-      ]
+      "links": ["Sobre nosotros", "Blog", "Empleo", "Contacto"]
     },
     "legal": {
       "title": "Legal",
-      "links": [
-        "Privacidad",
-        "Términos",
-        "Seguridad"
-      ]
+      "links": ["Privacidad", "Términos", "Seguridad"]
     }
   },
   "copyright": "© {{year}} VINCI Automata. Todos los derechos reservados."
